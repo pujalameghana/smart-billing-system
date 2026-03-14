@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Java build files
+target/
+
+# Logs
+*.log
+
+# Environment variables
+.env
